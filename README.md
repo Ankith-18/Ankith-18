@@ -1,5 +1,12 @@
 # 💫 About Me:
-I’m currently working on<br><br>Shell scripting projects on Linux<br><br>Frontend development using HTML, JavaScript & Tailwind CSS<br><br>Cybersecurity mini-projects and automation scripts<br><br>🤝 I’m looking to collaborate on<br><br>Open-source projects<br><br>Beginner-friendly cybersecurity or DevOps projects<br><br>Web development and automation tools<br><br>🆘 I’m looking for help with<br><br>Advanced cybersecurity concepts<br>🌱 I’m currently learning<br><br>Cybersecurity fundamentals<br><br>Linux system administration<br><br>Git & GitHub workflows<br><br>Cloud basics (AWS)<br><br>Frontend development (HTML, CSS, Tailwind, JavaScript)<br><br>💬 Ask me about<br><br>Linux commands & shell scripting<br><br>Git & GitHub<br><br>Basic cybersecurity concepts<br><br>College tech projects & hackathons<br><br>⚡ Fun fact<br>I go to the gym 6 days a week and believe discipline in fitness builds discipline in coding 💪💻
+🔨 Currently working on shell scripting projects, frontend development (HTML, JS, Tailwind), and cybersecurity mini-projects  
+🤝 Open to collaborating on open-source, beginner-friendly cybersecurity, DevOps, and automation projects  
+🆘 Seeking guidance on advanced cybersecurity concepts and real-world system design  
+🌱 Currently learning cybersecurity fundamentals, Linux system administration, and AWS basics  
+💻 Exploring Git & GitHub workflows and modern frontend development practices  
+💬 Ask me about Linux commands, shell scripting, Git/GitHub, and college tech projects  
+⚡ Fun fact: I hit the gym 6 days a week—discipline in fitness fuels discipline in coding 💪💻
+
 
 
 ## 🌐 Socials:
