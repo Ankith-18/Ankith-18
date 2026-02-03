@@ -1,12 +1,15 @@
-# 💫 About Me:
-🔨 Currently working on shell scripting projects, frontend development (HTML, JS, Tailwind), and cybersecurity mini-projects  
-🤝 Open to collaborating on open-source, beginner-friendly cybersecurity, DevOps, and automation projects  
-🆘 Seeking guidance on advanced cybersecurity concepts and real-world system design  
-🌱 Currently learning cybersecurity fundamentals, Linux system administration, and AWS basics  
-💻 Exploring Git & GitHub workflows and modern frontend development practices  
-💬 Ask me about Linux commands, shell scripting, Git/GitHub, and college tech projects  
-⚡ Fun fact: I hit the gym 6 days a week—discipline in fitness fuels discipline in coding 💪💻
+💫 About Me
 
+I am a Computer Science undergraduate with a strong interest in cybersecurity, DevOps, and modern web development. I enjoy building practical projects that strengthen my understanding of systems, automation, and secure application design.
+
+🔹 Currently working on shell scripting, frontend development (HTML, JavaScript, Tailwind CSS), and cybersecurity-focused mini projects
+🔹 Actively exploring Linux system administration, cybersecurity fundamentals, and AWS cloud basics
+🔹 Learning and applying Git & GitHub workflows for version control and collaborative development
+🔹 Interested in real-world system design, automation, and infrastructure concepts
+🔹 Open to collaborating on beginner-friendly open-source projects in cybersecurity, DevOps, and automation
+🔹 Happy to discuss Linux commands, shell scripting, Git/GitHub, and college-level tech projects
+
+⚡ Fun fact: I train at the gym 6 days a week — the discipline I build in fitness directly reflects in my consistency and problem-solving approach to coding 💪💻
 
 
 ## 🌐 Socials:
